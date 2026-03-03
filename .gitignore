@@ -1,0 +1,78 @@
+# ============================
+# Java Compiled Files
+# ============================
+*.class
+
+# ============================
+# Log Files
+# ============================
+*.log
+
+# ============================
+# Package Files
+# ============================
+*.jar
+*.war
+*.ear
+
+# ============================
+# Temporary Files
+# ============================
+*.tmp
+*.temp
+*.bak
+*~
+
+# ============================
+# IDE / Editor Files
+# ============================
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# NetBeans
+/nbproject/
+/build/
+/dist/
+/nbbuild/
+/nbdist/
+/.nb-gradle/
+
+# VS Code
+.vscode/
+
+# ============================
+# Build Tools
+# ============================
+
+# Maven
+/target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+
+# Gradle
+.gradle/
+build/
+
+# ============================
+# OS Generated Files
+# ============================
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# macOS
+.DS_Store
+
+# Linux
+*~
