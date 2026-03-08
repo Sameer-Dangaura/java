@@ -24,7 +24,7 @@ public class InterfaceExamples implements Person{
 }
 
 /*
-Copilot said: # Understanding `@Override` in Java The `@Override` annotation
+# Understanding `@Override` in Java The `@Override` annotation
 Understanding @Override in Java
 The @Override annotation is a compiler hint that tells Java to check if you're correctly overriding a method from a parent class or interface. Let me break down what it does in your example:
 
